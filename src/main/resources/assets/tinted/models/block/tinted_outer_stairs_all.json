@@ -1,0 +1,11 @@
+{
+    "parent": "tinted:block/tinted_outer_stairs",
+    "textures": {
+      "bottom": "#all",
+      "side": "#all",
+      "top": "#all",
+      "bottom_overlay": "#overlay",
+      "side_overlay": "#overlay",
+      "top_overlay": "#overlay"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "tinted:block/tinted_cube_static_all",
+  "textures": {
+    "all": "tinted:block/moss_block"
+  }
+}

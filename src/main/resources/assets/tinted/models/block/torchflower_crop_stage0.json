@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/tinted_cross",
+  "textures": {
+    "cross": "tinted:block/torchflower_crop_stage0"
+  }
+}

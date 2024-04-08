@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_cross",
+  "textures": {
+    "cross": "tinted:block/oxeye_daisy",
+    "overlay": "tinted:block/oxeye_daisy_overlay"
+  }
+}

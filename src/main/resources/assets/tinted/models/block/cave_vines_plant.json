@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_cross",
+  "textures": {
+    "cross": "tinted:block/cave_vines_plant",
+    "overlay": "tinted:block/cave_vines_plant_overlay"
+  }
+}

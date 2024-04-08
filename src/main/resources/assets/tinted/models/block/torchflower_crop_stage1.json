@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_cross",
+  "textures": {
+    "cross": "tinted:block/torchflower_crop_stage1",
+    "overlay": "tinted:block/torchflower_crop_stage1_overlay"
+  }
+}

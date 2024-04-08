@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_cross",
+  "textures": {
+    "cross": "tinted:block/rose_bush_bottom",
+    "overlay": "tinted:block/rose_bush_bottom_overlay"
+  }
+}

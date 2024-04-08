@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_cross",
+  "textures": {
+    "cross": "tinted:block/pink_tulip",
+    "overlay": "tinted:block/pink_tulip_overlay"
+  }
+}

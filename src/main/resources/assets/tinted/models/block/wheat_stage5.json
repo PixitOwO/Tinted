@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_crop",
+  "textures": {
+    "crop": "tinted:block/wheat_stage5",
+    "overlay": "tinted:block/wheat_stage5_overlay"
+  }
+}

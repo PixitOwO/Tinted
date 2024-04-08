@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_cross",
+  "textures": {
+    "cross": "tinted:block/lily_of_the_valley",
+    "overlay": "tinted:block/lily_of_the_valley_overlay"
+  }
+}

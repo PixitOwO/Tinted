@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "tinted:block/sunflower_bottom"
+    },
+    "half=upper": {
+      "model": "tinted:block/sunflower_top"
+    }
+  }
+}

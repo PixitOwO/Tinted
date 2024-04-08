@@ -1,0 +1,12 @@
+{
+    "parent": "tinted:block/tinted_slab_top",
+    "textures": {
+        "particle": "#all",
+        "bottom": "#all",
+        "top": "#all",
+        "side": "#all",
+        "bottom_overlay": "#overlay",
+        "top_overlay": "#overlay",
+        "side_overlay": "#overlay"
+    }
+}

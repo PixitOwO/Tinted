@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_slab_all",
+  "textures": {
+    "all": "tinted:block/mossy_cobblestone",
+    "overlay": "tinted:block/mossy_cobblestone_overlay"
+  }
+}

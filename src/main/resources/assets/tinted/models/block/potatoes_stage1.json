@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_crop",
+  "textures": {
+    "crop": "tinted:block/potatoes_stage1",
+    "overlay": "tinted:block/potatoes_stage1_overlay"
+  }
+}

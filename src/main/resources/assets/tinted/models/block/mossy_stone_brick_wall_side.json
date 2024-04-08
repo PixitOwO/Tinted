@@ -1,0 +1,7 @@
+{
+  "parent": "tinted:block/tinted_wall_side",
+  "textures": {
+    "wall": "tinted:block/mossy_stone_bricks",
+    "overlay": "tinted:block/mossy_stone_bricks_overlay"
+  }
+}

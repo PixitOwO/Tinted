@@ -1,0 +1,6 @@
+{
+  "parent": "tinted:block/tinted_crop_static",
+  "textures": {
+    "crop": "tinted:block/beetroots_stage0"
+  }
+}

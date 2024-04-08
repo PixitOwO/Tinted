@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "tinted",
+	"version": "${version}",
+	"name": "Tinted",
+	"description": "Changes all vegetation to have biome tints",
+	"authors": [
+		"Pixit"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/tinted/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"net.pixit.tinted.TintedClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
