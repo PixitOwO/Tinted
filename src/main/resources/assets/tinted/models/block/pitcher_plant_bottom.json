@@ -43,12 +43,12 @@
             "shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 3, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 0, 16], "texture": "#bottom_overlay"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#bottom_overlay"},
-				"south": {"uv": [0, 0, 0, 16], "texture": "#bottom_overlay"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#bottom_overlay"},
-				"up": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#bottom_overlay"},
-				"down": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#bottom_overlay"}
+				"north": {"uv": [0, 0, 0, 16], "texture": "#bottom_overlay", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#bottom_overlay", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#bottom_overlay", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#bottom_overlay", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#bottom_overlay", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#bottom_overlay", "tintindex": 0}
 			}
 		},
 		{
@@ -58,12 +58,12 @@
             "shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 3, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#bottom_overlay"},
-				"east": {"uv": [0, 0, 0, 16], "texture": "#bottom_overlay"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#bottom_overlay"},
-				"west": {"uv": [0, 0, 0, 16], "texture": "#bottom_overlay"},
-				"up": {"uv": [0, 0, 16, 0], "texture": "#bottom_overlay"},
-				"down": {"uv": [0, 0, 16, 0], "texture": "#bottom_overlay"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#bottom_overlay", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#bottom_overlay", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#bottom_overlay", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#bottom_overlay", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#bottom_overlay", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#bottom_overlay", "tintindex": 0}
 			}
 		}
 	]
